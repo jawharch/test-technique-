@@ -1,0 +1,8 @@
+#root {
+ padding: 2rem;
+ margin: 2rem;
+ box-sizing: border-box;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
